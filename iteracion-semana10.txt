@@ -1,0 +1,17 @@
+¿Qué 2 tareas del backlog harías primero?
+1. Ciudadano registra denuncia 
+2. Coordinador recibe notificación
+
+¿Por qué son las más importantes?
+- La denuncia ciudadana es la base de todo el sistema: sin reportes iniciales no hay evidencia ni seguimiento posible.  
+- La notificación al coordinador asegura una respuesta rápida y evita que los casos queden sin atención.  
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Una tarea está terminada cuando cumple con criterios claros de calidad y cierre.  
+
+CRITERIOS QUE REFLEJA LA DEFINICIÓN D UN TERMINADO
+
+1. Funciona correctamente según lo esperado.  
+2. Fue probada y validada con casos de uso básicos.  
+3. Quedó registrada en Git con su respectivo commit y documentación mínima.  
+

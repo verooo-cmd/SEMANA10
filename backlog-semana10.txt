@@ -1,0 +1,21 @@
+Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+
+Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte.
+
+Como miembro del equipo quiero consultar reportes para hacer seguimiento.
+
+Como analista quiero generar estadísticas de los reportes para identificar patrones y tendencias.
+
+Como miembro de la comunidad quiero acceder a un tablero público para garantizar transparencia en la gestión de incidencias.
+
+
+Orden de prioridad (de mayor a menor)
+1.Ciudadano reporta incidencia
+
+2.Coordinador recibe alerta
+
+3.Equipo consulta reportes
+
+4.Analista genera estadísticas
+
+5.Comunidad recibe transparencia
