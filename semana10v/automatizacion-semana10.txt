@@ -7,12 +7,13 @@ Enviar mensaje a Telegram al grupo de seguimiento.
 Mensaje enviado:  
 “Un reporte ha sido actualizado. Revisar cambios en el sistema.”
 
+
 Información que no debería enviarse por seguridad:
 
-Datos personales como nombres completos o direcciones.
+-Datos personales como nombres completos o direcciones.
 
-Documentos oficiales como cédulas o pasaportes.
+-Documentos oficiales como cédulas o pasaportes.
 
-Teléfonos y correos de los ciudadanos.
+-Teléfonos y correos de los ciudadanos.
 
-Claves o credenciales de acceso al sistema.
+-Claves o credenciales de acceso al sistema.
