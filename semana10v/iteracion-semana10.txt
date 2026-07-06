@@ -9,9 +9,9 @@
 ¿Qué significa para ti que una tarea esté “terminada”?
 Una tarea está terminada cuando cumple con criterios claros de calidad y cierre.  
 
-CRITERIOS QUE REFLEJA LA DEFINICIÓN D UN TERMINADO
+CRITERIOS QUE REFLEJA LA DEFINICIÓN DE UN TERMINADO
 
 1. Funciona correctamente según lo esperado.  
 2. Fue probada y validada con casos de uso básicos.  
-3. Quedó registrada en Git con su respectivo commit y documentación mínima.  
+3. Quedó registrada en Git con su respectivo commit.
 
